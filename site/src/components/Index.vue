@@ -17,7 +17,7 @@
                     <h1 class="text-center">Our Team</h1>
                     <div>
                         <p class="text-center"><strong>John</strong></p>
-                        <p class="text-center">In iaculis volutpat neque, ac ultrices nisl condimentum sed. Donec at quam eget nisi aliquam tristique. Duis quis efficitur ante, porta pulvinar mi. Etiam porttitor elementum nibh, eu condimentum eros volutpat vitae. Nunc nec turpis dui.</p>
+                        <p class="text-center">As a rising full stack developer, John is a linux intermediate and buzzword aficianado.</p>
                     </div>
                     <div>
                         <p class="text-center"><strong>Caleb</strong></p>

@@ -15,10 +15,22 @@
             <div class="layout-padding">
                 <div>
                     <h1 class="text-center">Our Team</h1>
-                    <p class="text-center">John</p>
-                    <p class="text-center">Caleb</p>
-                    <p class="text-center">Finn</p>
-                    <p class="text-center">Matt</p>
+                    <div>
+                        <p class="text-center"><strong>John</strong></p>
+                        <p class="text-center">In iaculis volutpat neque, ac ultrices nisl condimentum sed. Donec at quam eget nisi aliquam tristique. Duis quis efficitur ante, porta pulvinar mi. Etiam porttitor elementum nibh, eu condimentum eros volutpat vitae. Nunc nec turpis dui.</p>
+                    </div>
+                    <div>
+                        <p class="text-center"><strong>Caleb</strong></p>
+                        <p class="text-center">In iaculis volutpat neque, ac ultrices nisl condimentum sed. Donec at quam eget nisi aliquam tristique. Duis quis efficitur ante, porta pulvinar mi. Etiam porttitor elementum nibh, eu condimentum eros volutpat vitae. Nunc nec turpis dui.</p>
+                    </div>
+                    <div>
+                        <p class="text-center"><strong>Finn</strong></p>
+                        <p class="text-center">In iaculis volutpat neque, ac ultrices nisl condimentum sed. Donec at quam eget nisi aliquam tristique. Duis quis efficitur ante, porta pulvinar mi. Etiam porttitor elementum nibh, eu condimentum eros volutpat vitae. Nunc nec turpis dui.</p>
+                    </div>
+                    <div>
+                        <p class="text-center"><strong>Matt</strong></p>
+                        <p class="text-center">In iaculis volutpat neque, ac ultrices nisl condimentum sed. Donec at quam eget nisi aliquam tristique. Duis quis efficitur ante, porta pulvinar mi. Etiam porttitor elementum nibh, eu condimentum eros volutpat vitae. Nunc nec turpis dui.</p>
+                    </div>
                 </div>
             </div>
 
